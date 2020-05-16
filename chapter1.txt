@@ -1,0 +1,14 @@
+This is a chapter one about git and github
+starts -->
+git init
+
+git status
+
+"no commit yet"
+
+
+git add <file name> or <.>
+
+git status
+
+changes to be committed
